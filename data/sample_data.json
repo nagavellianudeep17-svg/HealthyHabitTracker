@@ -1,0 +1,380 @@
+[
+  {
+    "id": "sample-001",
+    "date": "2026-11-19",
+    "habit": "Reading",
+    "amount": 47.9,
+    "unit": "minutes",
+    "note": "After classes",
+    "created_at": "2026-11-19T12:00:00"
+  },
+  {
+    "id": "sample-002",
+    "date": "2026-11-17",
+    "habit": "Hydration",
+    "amount": 4.1,
+    "unit": "litres",
+    "note": "Weekend reset",
+    "created_at": "2026-11-17T12:00:00"
+  },
+  {
+    "id": "sample-003",
+    "date": "2026-11-18",
+    "habit": "Reading",
+    "amount": 68.8,
+    "unit": "minutes",
+    "note": "Weekend reset",
+    "created_at": "2026-11-18T12:00:00"
+  },
+  {
+    "id": "sample-004",
+    "date": "2026-11-18",
+    "habit": "Exercise",
+    "amount": 68.0,
+    "unit": "minutes",
+    "note": "Weekend reset",
+    "created_at": "2026-11-18T12:00:00"
+  },
+  {
+    "id": "sample-005",
+    "date": "2026-11-17",
+    "habit": "Exercise",
+    "amount": 26.9,
+    "unit": "minutes",
+    "note": "",
+    "created_at": "2026-11-17T12:00:00"
+  },
+  {
+    "id": "sample-006",
+    "date": "2026-11-20",
+    "habit": "Reading",
+    "amount": 28.1,
+    "unit": "minutes",
+    "note": "After classes",
+    "created_at": "2026-11-20T12:00:00"
+  },
+  {
+    "id": "sample-007",
+    "date": "2026-11-18",
+    "habit": "Exercise",
+    "amount": 63.9,
+    "unit": "minutes",
+    "note": "",
+    "created_at": "2026-11-18T12:00:00"
+  },
+  {
+    "id": "sample-008",
+    "date": "2026-11-19",
+    "habit": "Hydration",
+    "amount": 3.3,
+    "unit": "litres",
+    "note": "After classes",
+    "created_at": "2026-11-19T12:00:00"
+  },
+  {
+    "id": "sample-009",
+    "date": "2026-11-15",
+    "habit": "Hydration",
+    "amount": 3.6,
+    "unit": "litres",
+    "note": "Morning session",
+    "created_at": "2026-11-15T12:00:00"
+  },
+  {
+    "id": "sample-010",
+    "date": "2026-11-11",
+    "habit": "Reading",
+    "amount": 29.2,
+    "unit": "minutes",
+    "note": "After classes",
+    "created_at": "2026-11-11T12:00:00"
+  },
+  {
+    "id": "sample-011",
+    "date": "2026-11-13",
+    "habit": "Reading",
+    "amount": 55.0,
+    "unit": "minutes",
+    "note": "",
+    "created_at": "2026-11-13T12:00:00"
+  },
+  {
+    "id": "sample-012",
+    "date": "2026-11-20",
+    "habit": "Exercise",
+    "amount": 56.2,
+    "unit": "minutes",
+    "note": "Weekend reset",
+    "created_at": "2026-11-20T12:00:00"
+  },
+  {
+    "id": "sample-013",
+    "date": "2026-11-14",
+    "habit": "Exercise",
+    "amount": 10.4,
+    "unit": "minutes",
+    "note": "Weekend reset",
+    "created_at": "2026-11-14T12:00:00"
+  },
+  {
+    "id": "sample-014",
+    "date": "2026-11-20",
+    "habit": "Exercise",
+    "amount": 43.3,
+    "unit": "minutes",
+    "note": "Evening routine",
+    "created_at": "2026-11-20T12:00:00"
+  },
+  {
+    "id": "sample-015",
+    "date": "2026-11-12",
+    "habit": "Hydration",
+    "amount": 1.2,
+    "unit": "litres",
+    "note": "",
+    "created_at": "2026-11-12T12:00:00"
+  },
+  {
+    "id": "sample-016",
+    "date": "2026-11-15",
+    "habit": "Hydration",
+    "amount": 3.6,
+    "unit": "litres",
+    "note": "Weekend reset",
+    "created_at": "2026-11-15T12:00:00"
+  },
+  {
+    "id": "sample-017",
+    "date": "2026-11-23",
+    "habit": "Reading",
+    "amount": 13.8,
+    "unit": "minutes",
+    "note": "",
+    "created_at": "2026-11-23T12:00:00"
+  },
+  {
+    "id": "sample-018",
+    "date": "2026-11-11",
+    "habit": "Exercise",
+    "amount": 10.2,
+    "unit": "minutes",
+    "note": "Evening routine",
+    "created_at": "2026-11-11T12:00:00"
+  },
+  {
+    "id": "sample-019",
+    "date": "2026-11-14",
+    "habit": "Exercise",
+    "amount": 22.2,
+    "unit": "minutes",
+    "note": "Morning session",
+    "created_at": "2026-11-14T12:00:00"
+  },
+  {
+    "id": "sample-020",
+    "date": "2026-11-20",
+    "habit": "Hydration",
+    "amount": 2.2,
+    "unit": "litres",
+    "note": "Weekend reset",
+    "created_at": "2026-11-20T12:00:00"
+  },
+  {
+    "id": "sample-021",
+    "date": "2026-11-17",
+    "habit": "Exercise",
+    "amount": 45.4,
+    "unit": "minutes",
+    "note": "Evening routine",
+    "created_at": "2026-11-17T12:00:00"
+  },
+  {
+    "id": "sample-022",
+    "date": "2026-11-22",
+    "habit": "Exercise",
+    "amount": 39.2,
+    "unit": "minutes",
+    "note": "",
+    "created_at": "2026-11-22T12:00:00"
+  },
+  {
+    "id": "sample-023",
+    "date": "2026-11-17",
+    "habit": "Exercise",
+    "amount": 32.8,
+    "unit": "minutes",
+    "note": "After classes",
+    "created_at": "2026-11-17T12:00:00"
+  },
+  {
+    "id": "sample-024",
+    "date": "2026-11-11",
+    "habit": "Hydration",
+    "amount": 4.0,
+    "unit": "litres",
+    "note": "",
+    "created_at": "2026-11-11T12:00:00"
+  },
+  {
+    "id": "sample-025",
+    "date": "2026-11-18",
+    "habit": "Hydration",
+    "amount": 2.4,
+    "unit": "litres",
+    "note": "After classes",
+    "created_at": "2026-11-18T12:00:00"
+  },
+  {
+    "id": "sample-026",
+    "date": "2026-11-23",
+    "habit": "Hydration",
+    "amount": 4.0,
+    "unit": "litres",
+    "note": "Evening routine",
+    "created_at": "2026-11-23T12:00:00"
+  },
+  {
+    "id": "sample-027",
+    "date": "2026-11-21",
+    "habit": "Hydration",
+    "amount": 2.6,
+    "unit": "litres",
+    "note": "",
+    "created_at": "2026-11-21T12:00:00"
+  },
+  {
+    "id": "sample-028",
+    "date": "2026-11-11",
+    "habit": "Hydration",
+    "amount": 4.2,
+    "unit": "litres",
+    "note": "After classes",
+    "created_at": "2026-11-11T12:00:00"
+  },
+  {
+    "id": "sample-029",
+    "date": "2026-11-17",
+    "habit": "Exercise",
+    "amount": 35.3,
+    "unit": "minutes",
+    "note": "Weekend reset",
+    "created_at": "2026-11-17T12:00:00"
+  },
+  {
+    "id": "sample-030",
+    "date": "2026-11-16",
+    "habit": "Exercise",
+    "amount": 38.4,
+    "unit": "minutes",
+    "note": "Weekend reset",
+    "created_at": "2026-11-16T12:00:00"
+  },
+  {
+    "id": "sample-031",
+    "date": "2026-11-22",
+    "habit": "Exercise",
+    "amount": 33.3,
+    "unit": "minutes",
+    "note": "Evening routine",
+    "created_at": "2026-11-22T12:00:00"
+  },
+  {
+    "id": "sample-032",
+    "date": "2026-11-15",
+    "habit": "Exercise",
+    "amount": 20.1,
+    "unit": "minutes",
+    "note": "Morning session",
+    "created_at": "2026-11-15T12:00:00"
+  },
+  {
+    "id": "sample-033",
+    "date": "2026-11-21",
+    "habit": "Exercise",
+    "amount": 47.3,
+    "unit": "minutes",
+    "note": "After classes",
+    "created_at": "2026-11-21T12:00:00"
+  },
+  {
+    "id": "sample-034",
+    "date": "2026-11-19",
+    "habit": "Reading",
+    "amount": 55.6,
+    "unit": "minutes",
+    "note": "After classes",
+    "created_at": "2026-11-19T12:00:00"
+  },
+  {
+    "id": "sample-035",
+    "date": "2026-11-23",
+    "habit": "Exercise",
+    "amount": 36.0,
+    "unit": "minutes",
+    "note": "After classes",
+    "created_at": "2026-11-23T12:00:00"
+  },
+  {
+    "id": "sample-036",
+    "date": "2026-11-20",
+    "habit": "Exercise",
+    "amount": 55.0,
+    "unit": "minutes",
+    "note": "Weekend reset",
+    "created_at": "2026-11-20T12:00:00"
+  },
+  {
+    "id": "sample-037",
+    "date": "2026-11-20",
+    "habit": "Hydration",
+    "amount": 0.9,
+    "unit": "litres",
+    "note": "",
+    "created_at": "2026-11-20T12:00:00"
+  },
+  {
+    "id": "sample-038",
+    "date": "2026-11-20",
+    "habit": "Hydration",
+    "amount": 0.8,
+    "unit": "litres",
+    "note": "Evening routine",
+    "created_at": "2026-11-20T12:00:00"
+  },
+  {
+    "id": "sample-039",
+    "date": "2026-11-11",
+    "habit": "Exercise",
+    "amount": 60.9,
+    "unit": "minutes",
+    "note": "",
+    "created_at": "2026-11-11T12:00:00"
+  },
+  {
+    "id": "sample-040",
+    "date": "2026-11-19",
+    "habit": "Reading",
+    "amount": 21.9,
+    "unit": "minutes",
+    "note": "Morning session",
+    "created_at": "2026-11-19T12:00:00"
+  },
+  {
+    "id": "sample-041",
+    "date": "2026-11-13",
+    "habit": "Hydration",
+    "amount": 1.1,
+    "unit": "litres",
+    "note": "",
+    "created_at": "2026-11-13T12:00:00"
+  },
+  {
+    "id": "sample-042",
+    "date": "2026-11-22",
+    "habit": "Reading",
+    "amount": 44.4,
+    "unit": "minutes",
+    "note": "Weekend reset",
+    "created_at": "2026-11-22T12:00:00"
+  }
+]

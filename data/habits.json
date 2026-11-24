@@ -1,0 +1,20 @@
+[
+  {
+    "id": "79469dc7-a766-4a97-928e-fd6e0bfd769a",
+    "date": "2026-11-23",
+    "habit": "Reading",
+    "amount": 100.0,
+    "unit": "minutes",
+    "note": "hi",
+    "created_at": "2026-11-23T15:25:40"
+  },
+  {
+    "id": "a68c2eb4-7421-447c-ac3a-6058cb86d725",
+    "date": "2026-11-23",
+    "habit": "Exercise",
+    "amount": 35.0,
+    "unit": "minutes",
+    "note": "hard",
+    "created_at": "2026-11-23T15:38:00"
+  }
+]

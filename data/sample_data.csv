@@ -1,0 +1,43 @@
+id,date,habit,amount,unit,note,created_at
+sample-001,2026-11-19,Reading,47.9,minutes,After classes,2026-11-19T12:00:00
+sample-002,2026-11-17,Hydration,4.1,litres,Weekend reset,2026-11-17T12:00:00
+sample-003,2026-11-18,Reading,68.8,minutes,Weekend reset,2026-11-18T12:00:00
+sample-004,2026-11-18,Exercise,68.0,minutes,Weekend reset,2026-11-18T12:00:00
+sample-005,2026-11-17,Exercise,26.9,minutes,,2026-11-17T12:00:00
+sample-006,2026-11-20,Reading,28.1,minutes,After classes,2026-11-20T12:00:00
+sample-007,2026-11-18,Exercise,63.9,minutes,,2026-11-18T12:00:00
+sample-008,2026-11-19,Hydration,3.3,litres,After classes,2026-11-19T12:00:00
+sample-009,2026-11-15,Hydration,3.6,litres,Morning session,2026-11-15T12:00:00
+sample-010,2026-11-11,Reading,29.2,minutes,After classes,2026-11-11T12:00:00
+sample-011,2026-11-13,Reading,55.0,minutes,,2026-11-13T12:00:00
+sample-012,2026-11-20,Exercise,56.2,minutes,Weekend reset,2026-11-20T12:00:00
+sample-013,2026-11-14,Exercise,10.4,minutes,Weekend reset,2026-11-14T12:00:00
+sample-014,2026-11-20,Exercise,43.3,minutes,Evening routine,2026-11-20T12:00:00
+sample-015,2026-11-12,Hydration,1.2,litres,,2026-11-12T12:00:00
+sample-016,2026-11-15,Hydration,3.6,litres,Weekend reset,2026-11-15T12:00:00
+sample-017,2026-11-23,Reading,13.8,minutes,,2026-11-23T12:00:00
+sample-018,2026-11-11,Exercise,10.2,minutes,Evening routine,2026-11-11T12:00:00
+sample-019,2026-11-14,Exercise,22.2,minutes,Morning session,2026-11-14T12:00:00
+sample-020,2026-11-20,Hydration,2.2,litres,Weekend reset,2026-11-20T12:00:00
+sample-021,2026-11-17,Exercise,45.4,minutes,Evening routine,2026-11-17T12:00:00
+sample-022,2026-11-22,Exercise,39.2,minutes,,2026-11-22T12:00:00
+sample-023,2026-11-17,Exercise,32.8,minutes,After classes,2026-11-17T12:00:00
+sample-024,2026-11-11,Hydration,4.0,litres,,2026-11-11T12:00:00
+sample-025,2026-11-18,Hydration,2.4,litres,After classes,2026-11-18T12:00:00
+sample-026,2026-11-23,Hydration,4.0,litres,Evening routine,2026-11-23T12:00:00
+sample-027,2026-11-21,Hydration,2.6,litres,,2026-11-21T12:00:00
+sample-028,2026-11-11,Hydration,4.2,litres,After classes,2026-11-11T12:00:00
+sample-029,2026-11-17,Exercise,35.3,minutes,Weekend reset,2026-11-17T12:00:00
+sample-030,2026-11-16,Exercise,38.4,minutes,Weekend reset,2026-11-16T12:00:00
+sample-031,2026-11-22,Exercise,33.3,minutes,Evening routine,2026-11-22T12:00:00
+sample-032,2026-11-15,Exercise,20.1,minutes,Morning session,2026-11-15T12:00:00
+sample-033,2026-11-21,Exercise,47.3,minutes,After classes,2026-11-21T12:00:00
+sample-034,2026-11-19,Reading,55.6,minutes,After classes,2026-11-19T12:00:00
+sample-035,2026-11-23,Exercise,36.0,minutes,After classes,2026-11-23T12:00:00
+sample-036,2026-11-20,Exercise,55.0,minutes,Weekend reset,2026-11-20T12:00:00
+sample-037,2026-11-20,Hydration,0.9,litres,,2026-11-20T12:00:00
+sample-038,2026-11-20,Hydration,0.8,litres,Evening routine,2026-11-20T12:00:00
+sample-039,2026-11-11,Exercise,60.9,minutes,,2026-11-11T12:00:00
+sample-040,2026-11-19,Reading,21.9,minutes,Morning session,2026-11-19T12:00:00
+sample-041,2026-11-13,Hydration,1.1,litres,,2026-11-13T12:00:00
+sample-042,2026-11-22,Reading,44.4,minutes,Weekend reset,2026-11-22T12:00:00
